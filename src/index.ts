@@ -1,4 +1,4 @@
-import dbimages from "../db.json";
+import dbimages from "./db.json";
 
 let dbimg = JSON.stringify(dbimages);
 
