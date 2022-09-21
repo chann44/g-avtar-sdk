@@ -14,5 +14,3 @@ export const getRandomAvtar = () => {
   let img = parsedImages[getRandomInt(0, 1000)];
   return img.url;
 };
-
-console.log(getRandomAvtar());
